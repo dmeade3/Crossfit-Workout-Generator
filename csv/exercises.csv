@@ -1,6 +1,30 @@
-name,type
-Back Squat,Barbell
-Front Squat,Barbell
-Overhead Squat,Barbell
-Deadlift,Barbell
-StiffLeg Deadlift,
+name,type,,,
+Back Squat,Powerlift,,,
+Front Squat,Powerlift,,,
+Deadlift,Powerlift,,,
+,,,,
+Snatch,Olympic Lift,,,
+Clean and Jerk,Olympic Lift,,,
+,,,,
+Stiff Leg Deadlift,Barbell Assistance,,,
+Overhead Squat,Barbell Assistance,,,
+Barbell Incline Press,Barbell Assistance,,,
+,,,,
+,,,,
+,,,,
+Hang Snatch,Olympic Assistance,,,
+Hand Clean and Jerk,Olympic Assistance,,,
+Muscle Snatch,Olympic Assistance,,,
+,,,,
+,,,,
+Dumbbell Bench Press,Dumbbell Assistance,,,
+Dumbbell Incline Curl,Dumbbell Assistance,,,
+1 Arm Dumbbell Snatch,Dumbbell Assistance,,,
+,,,,
+,,,,
+Pullup anyway,Bodyweight,,,go to crossfit websites and add in all that you can find here
+Strict Pullup,Bodyweight,,,
+L-Sit Pullup,Bodyweight,,,
+Ring Dip,Bodyweight,,,
+Bar Dip,Bodyweight,,,
+Muscle Up,Bodyweight,,,
